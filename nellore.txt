@@ -1,3 +1,2 @@
 hi this is first lineo
 this is second line
-this is testing for git revert
